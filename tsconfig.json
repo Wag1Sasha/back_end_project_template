@@ -11,6 +11,7 @@
     "strictNullChecks": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
+    "noImplicitReturns": true,
     "baseUrl": "./"
   },
   "include": [
