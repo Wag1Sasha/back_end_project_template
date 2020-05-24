@@ -7,9 +7,10 @@
     "sourceMap": true,
     "resolveJsonModule": true,
     "lib": ["ESNext"],
-    "noImplicitAny":true,
-    "strictNullChecks":true,
-    "esModuleInterop": true
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
   },
   "include": [
     "src/**/*.ts"
